@@ -1,0 +1,22 @@
+{
+  "name": "@bonfida/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config shared across Bonfida projects",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Bonfida/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "shared",
+    "Bonfida"
+  ],
+  "author": "letehaha <dmytro.svyrydenko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bonfida/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Bonfida/prettier-config#readme"
+}
