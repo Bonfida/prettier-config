@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Prettier config shared across Bonfida projects",
   "main": "index.json",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/Bonfida/prettier-config.git"
